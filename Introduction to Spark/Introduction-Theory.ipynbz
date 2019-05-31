@@ -31,10 +31,11 @@
    ]
   },
   {
-   "cell_type": "markdown",
+   "cell_type": "code",
    "metadata": {},
    "source": [
-    "![alt text](unit.png \"Units of Data\")"
+    "from IPython.display import display, Image\n",
+    "display(Image(filename='unit.png'))"
    ]
   },
   {
