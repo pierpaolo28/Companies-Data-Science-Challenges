@@ -1,4 +1,3 @@
-# Companies-Data-set-Challenges
-Data-set Challenges <br>
+# Companies-Data-Science-Challenges
 
-Collection of some of the Data-Science and ML challenges I faced during various events
+Collection of some of the Data-Science and ML challenges I faced during various events.
