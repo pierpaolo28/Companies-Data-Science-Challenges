@@ -1,0 +1,500 @@
+﻿1,L'Oreal SA,Personal Products,France
+2,Centrica PLC,Multi-Utilities,United Kingdom
+3,Enbridge Inc,"Oil, Gas & Consumable Fuels",Canada
+4,Siemens AG,Industrial Conglomerates,Germany
+5,Cisco Systems Inc,Communications Equipment,United States of America
+6,Henkel AG & Co KgaA,Household Products,Germany
+7,Accenture PLC,IT Services,Ireland; Republic of
+8,BT Group PLC,Diversified Telecommunication Services,United Kingdom
+9,Adidas AG,"Textiles, Apparel & Luxury Goods",Germany
+10,Koninklijke Philips NV,Health Care Equipment & Supplies,Netherlands
+11,H & M Hennes & Mauritz AB,Specialty Retail,Sweden
+12,Schneider Electric SE,Electrical Equipment,France
+13,Best Buy Co Inc,Specialty Retail,United States of America
+14,Roche Holding AG,Pharmaceuticals,Switzerland
+15,Airbus SE,Aerospace & Defense,Netherlands
+16,Toyota Motor Corp,Automobiles,Japan
+17,Apple Inc,"Technology Hardware, Storage & Peripherals",United States of America
+18,Vinci SA,Construction & Engineering,France
+19,BP PLC,"Oil, Gas & Consumable Fuels",United Kingdom
+20,Glencore PLC,Metals & Mining,Switzerland
+21,ABB Ltd,Electrical Equipment,Switzerland
+22,Johnson & Johnson,Pharmaceuticals,United States of America
+23,LG Electronics Inc,Household Durables,Korea; Republic (S. Korea)
+24,Exelon Corp,Electric Utilities,United States of America
+25,HP Inc,"Technology Hardware, Storage & Peripherals",United States of America
+26,Banco Santander SA,Banks,Spain
+27,ING Groep NV,Banks,Netherlands
+28,Microsoft Corp,Software,United States of America
+29,Telefonaktiebolaget LM Ericsson,Communications Equipment,Sweden
+30,Assicurazioni Generali SpA,Insurance,Italy
+31,Aviva PLC,Insurance,United Kingdom
+32,Humana Inc,Health Care Providers & Services,United States of America
+33,Merck & Co Inc,Pharmaceuticals,United States of America
+34,SSE PLC,Electric Utilities,United Kingdom
+35,Daiwa House Industry Co Ltd,Real Estate Management & Development,Japan
+36,Hitachi Ltd,"Electronic Equipment, Instruments & Components",Japan
+37,Orange SA,Diversified Telecommunication Services,France
+38,Endesa SA,Electric Utilities,Spain
+39,Credit Agricole SA,Banks,France
+40,Boeing Co,Aerospace & Defense,United States of America
+41,Raytheon Co,Aerospace & Defense,United States of America
+42,CNH Industrial NV,Machinery,United Kingdom
+43,AXA SA,Insurance,France
+44,Bristol-Myers Squibb Co,Pharmaceuticals,United States of America
+45,Daimler AG,Automobiles,Germany
+46,MetLife Inc,Insurance,United States of America
+47,Posco,Metals & Mining,Korea; Republic (S. Korea)
+48,Oracle Corp,Software,United States of America
+49,Aflac Inc,Insurance,United States of America
+50,Taiwan Semiconductor Manufacturing Co Ltd,Semiconductors & Semiconductor Equipment,Taiwan
+51,Commonwealth Bank of Australia,Banks,Australia
+52,Panasonic Corp,Household Durables,Japan
+53,Swiss Re AG,Insurance,Switzerland
+54,NTT Docomo Inc,Wireless Telecommunication Services,Japan
+55,Continental AG,Auto Components,Germany
+56,PTT PCL,"Oil, Gas & Consumable Fuels",Thailand
+57,Iberdrola SA,Electric Utilities,Spain
+58,Societe Generale SA,Banks,France
+59,AP Moeller - Maersk A/S,Marine,Denmark
+60,Mondelez International Inc,Food Products,United States of America
+61,Starbucks Corp,"Hotels, Restaurants & Leisure",United States of America
+62,CVS Health Corp,Food & Staples Retailing,United States of America
+63,UnitedHealth Group Inc,Health Care Providers & Services,United States of America
+64,Lloyds Banking Group PLC,Banks,United Kingdom
+65,LVMH Moet Hennessy Louis Vuitton SE,"Textiles, Apparel & Luxury Goods",France
+66,Qualcomm Inc,Semiconductors & Semiconductor Equipment,United States of America
+67,Lenovo Group Ltd,"Technology Hardware, Storage & Peripherals",China
+68,Hyundai Motor Co,Automobiles,Korea; Republic (S. Korea)
+69,BHP Billiton Ltd,Metals & Mining,Australia
+70,Legal & General Group PLC,Insurance,United Kingdom
+71,Nike Inc,"Textiles, Apparel & Luxury Goods",United States of America
+72,BASF SE,Chemicals,Germany
+73,NEC Corp,"Technology Hardware, Storage & Peripherals",Japan
+74,Audi AG,Automobiles,Germany
+75,Carrefour SA,Food & Staples Retailing,France
+76,Christian Dior SE,"Textiles, Apparel & Luxury Goods",France
+77,Bharat Petroleum Corporation Ltd,"Oil, Gas & Consumable Fuels",India
+78,General Electric Co,Industrial Conglomerates,United States of America
+79,Ford Motor Co,Automobiles,United States of America
+80,BNP Paribas SA,Banks,France
+81,Nissan Motor Co Ltd,Automobiles,Japan
+82,Whirlpool Corp,Household Durables,United States of America
+83,Nestle SA,Food Products,Switzerland
+84,Wal Mart de Mexico SAB de CV,Food & Staples Retailing,Mexico
+85,Telecom Italia SpA,Diversified Telecommunication Services,Italy
+86,Vale SA,Metals & Mining,Brazil
+87,Prudential Financial Inc,Insurance,United States of America
+88,Denso Corp,Auto Components,Japan
+89,Deutsche Post AG,Air Freight & Logistics,Germany
+90,Itochu Corp,Trading Companies & Distributors,Japan
+91,SK Innovation Co Ltd,"Oil, Gas & Consumable Fuels",Korea; Republic (S. Korea)
+92,Anglo American PLC,Metals & Mining,United Kingdom
+93,East Japan Railway Co,Road & Rail,Japan
+94,Archer Daniels Midland Co,Food Products,United States of America
+95,Royal Bank of Canada,Banks,Canada
+96,Muenchener Rueckversicherungs Gesellschaft AG in Muenchen,Insurance,Germany
+97,National Grid PLC,Multi-Utilities,United Kingdom
+98,Compagnie de Saint Gobain SA,Building Products,France
+99,Enel SpA,Electric Utilities,Italy
+100,United Continental Holdings Inc,Airlines,United States of America
+101,GlaxoSmithKline PLC,Pharmaceuticals,United Kingdom
+102,AstraZeneca PLC,Pharmaceuticals,United Kingdom
+103,Samsung Electronics Co Ltd,Semiconductors & Semiconductor Equipment,Korea; Republic (S. Korea)
+104,Danone SA,Food Products,France
+105,Bayerische Motoren Werke AG,Automobiles,Germany
+106,Citigroup Inc,Banks,United States of America
+107,UBS Group AG,Capital Markets,Switzerland
+108,Union Pacific Corp,Road & Rail,United States of America
+109,Mitsubishi Corp,Trading Companies & Distributors,Japan
+110,Aisin Seiki Co Ltd,Auto Components,Japan
+111,Eaton Corporation PLC,Electrical Equipment,Ireland; Republic of
+112,Fluor Corp,Construction & Engineering,United States of America
+113,3M Co,Industrial Conglomerates,United States of America
+114,Thyssenkrupp AG,Metals & Mining,Germany
+115,CRH PLC,Construction Materials,Ireland; Republic of
+116,Air Liquide SA,Chemicals,France
+117,Sprint Corp,Wireless Telecommunication Services,United States of America
+118,Renault SA,Automobiles,France
+119,Statoil ASA,"Oil, Gas & Consumable Fuels",Norway
+120,Bunge Ltd,Food Products,United States of America
+121,Medtronic PLC,Health Care Equipment & Supplies,Ireland; Republic of
+122,Schlumberger NV,Energy Equipment & Services,United States of America
+123,Sanofi SA,Pharmaceuticals,France
+124,Australia and New Zealand Banking Group Ltd,Banks,Australia
+125,Deutsche Telekom AG,Diversified Telecommunication Services,Germany
+126,Intesa Sanpaolo SpA,Banks,Italy
+127,Dow Chemical Co,Chemicals,United States of America
+128,Engie SA,Multi-Utilities,France
+129,Randstad Holding NV,Professional Services,Netherlands
+130,Duke Energy Corp,Electric Utilities,United States of America
+131,Total SA,"Oil, Gas & Consumable Fuels",France
+132,Korea Electric Power Corp,Electric Utilities,Korea; Republic (S. Korea)
+133,International Business Machines Corp,IT Services,United States of America
+134,Electricite de France SA,Electric Utilities,France
+135,Telstra Corporation Ltd,Diversified Telecommunication Services,Australia
+136,Nippon Telegraph and Telephone Corp,Diversified Telecommunication Services,Japan
+137,Delta Air Lines Inc,Airlines,United States of America
+138,Canon Inc,"Technology Hardware, Storage & Peripherals",Japan
+139,Industria de Diseno Textil SA,Specialty Retail,Spain
+140,KDDI Corp,Wireless Telecommunication Services,Japan
+141,Goldman Sachs Group Inc,Capital Markets,United States of America
+142,Royal Dutch Shell PLC,"Oil, Gas & Consumable Fuels",Netherlands
+143,Veolia Environnement SA,Multi-Utilities,France
+144,Nokia Oyj,Communications Equipment,Finland
+145,Bridgestone Corp,Auto Components,Japan
+146,Eli Lilly and Co,Pharmaceuticals,United States of America
+147,Intel Corp,Semiconductors & Semiconductor Equipment,United States of America
+148,Altria Group Inc,Tobacco,United States of America
+149,United Parcel Service Inc,Air Freight & Logistics,United States of America
+150,Toronto-Dominion Bank,Banks,Canada
+151,Fomento Economico Mexicano SAB de CV,Beverages,Mexico
+152,Mitsubishi UFJ Financial Group Inc,Banks,Japan
+153,American Express Co,Consumer Finance,United States of America
+154,Sodexo SA,"Hotels, Restaurants & Leisure",France
+155,PepsiCo Inc,Beverages,United States of America
+156,Telefonica SA,Diversified Telecommunication Services,Spain
+157,Peugeot SA,Automobiles,France
+158,Standard Life Aberdeen PLC,Diversified Financial Services,United Kingdom
+159,Natixis SA,Banks,France
+160,United Technologies Corp,Aerospace & Defense,United States of America
+161,Prudential PLC,Insurance,United Kingdom
+162,Allianz SE,Insurance,Germany
+163,China Pacific Insurance Group Co Ltd,Insurance,China
+164,HSBC Holdings PLC,Banks,United Kingdom
+165,Novartis AG,Pharmaceuticals,Switzerland
+166,Lockheed Martin Corp,Aerospace & Defense,United States of America
+167,McDonald's Corp,"Hotels, Restaurants & Leisure",United States of America
+168,Wistron Corp,"Technology Hardware, Storage & Peripherals",Taiwan
+169,Tokio Marine Holdings Inc,Insurance,Japan
+170,Sumitomo Electric Industries Ltd,Auto Components,Japan
+171,Exxon Mobil Corp,"Oil, Gas & Consumable Fuels",United States of America
+172,Cigna Corp,Health Care Providers & Services,United States of America
+173,Imperial Oil Ltd,"Oil, Gas & Consumable Fuels",Canada
+174,ManpowerGroup Inc,Professional Services,United States of America
+175,Daikin Industries Ltd,Building Products,Japan
+176,Pegatron Corp,"Technology Hardware, Storage & Peripherals",Taiwan
+177,Zurich Insurance Group AG,Insurance,Switzerland
+178,RWE AG,Multi-Utilities,Germany
+179,Southwest Airlines Co,Airlines,United States of America
+180,Philip Morris International Inc,Tobacco,United States of America
+181,Unilever PLC,Personal Products,United Kingdom
+182,Mitsubishi Electric Corp,Electrical Equipment,Japan
+183,Repsol SA,"Oil, Gas & Consumable Fuels",Spain
+184,Sumitomo Mitsui Financial Group Inc,Banks,Japan
+185,Anthem Inc,Health Care Providers & Services,United States of America
+186,Hana Financial Group Inc,Banks,Korea; Republic (S. Korea)
+187,Home Depot Inc,Specialty Retail,United States of America
+188,Rio Tinto PLC,Metals & Mining,United Kingdom
+189,Banco Bilbao Vizcaya Argentaria SA,Banks,Spain
+190,Brookfield Asset Management Inc,Capital Markets,Canada
+191,Aeon Co Ltd,Food & Staples Retailing,Japan
+192,Compal Electronics Inc,"Technology Hardware, Storage & Peripherals",Taiwan
+193,Bayer AG,Pharmaceuticals,Germany
+194,Toshiba Corp,Industrial Conglomerates,Japan
+195,Heineken NV,Beverages,Netherlands
+196,Sumitomo Corp,Trading Companies & Distributors,Japan
+197,Quanta Computer Inc,"Technology Hardware, Storage & Peripherals",Taiwan
+198,Adecco Group AG,Professional Services,Switzerland
+199,Wal-Mart Stores Inc,Food & Staples Retailing,United States of America
+200,Vodafone Group PLC,Wireless Telecommunication Services,United Kingdom
+201,Volkswagen AG,Automobiles,Germany
+202,E.ON SE,Multi-Utilities,Germany
+203,Bouygues SA,Construction & Engineering,France
+204,Jabil Inc,"Electronic Equipment, Instruments & Components",United States of America
+205,Polski Koncern Naftowy Orlen SA,"Oil, Gas & Consumable Fuels",Poland
+206,Abbott Laboratories,Health Care Equipment & Supplies,United States of America
+207,LyondellBasell Industries NV,Chemicals,United States of America
+208,ConocoPhillips,"Oil, Gas & Consumable Fuels",United States of America
+209,Sony Corp,Household Durables,Japan
+210,FedEx Corp,Air Freight & Logistics,United States of America
+211,SoftBank Group Corp,Wireless Telecommunication Services,Japan
+212,Loblaw Companies Ltd,Food & Staples Retailing,Canada
+213,Bank of Nova Scotia,Banks,Canada
+214,Sharp Corp,Household Durables,Japan
+215,Amgen Inc,Biotechnology,United States of America
+216,SAP SE,Software,Germany
+217,Mizuho Financial Group Inc,Banks,Japan
+218,Pfizer Inc,Pharmaceuticals,United States of America
+219,Aetna Inc,Health Care Providers & Services,United States of America
+220,Hewlett Packard Enterprise Co,"Technology Hardware, Storage & Peripherals",United States of America
+221,Cardinal Health Inc,Health Care Providers & Services,United States of America
+222,SOMPO Holdings Inc,Insurance,Japan
+223,Chevron Corp,"Oil, Gas & Consumable Fuels",United States of America
+224,Subaru Corp,Automobiles,Japan
+225,Gazprom PAO,"Oil, Gas & Consumable Fuels",Russia
+226,Gas Natural SDG SA,Gas Utilities,Spain
+227,Deutsche Lufthansa AG,Airlines,Germany
+228,CNP Assurances SA,Insurance,France
+229,International Paper Co,Containers & Packaging,United States of America
+230,Rolls-Royce Holdings PLC,Aerospace & Defense,United Kingdom
+231,Morgan Stanley,Capital Markets,United States of America
+232,Target Corp,Multiline Retail,United States of America
+233,Honda Motor Co Ltd,Automobiles,Japan
+234,AT&T Inc,Diversified Telecommunication Services,United States of America
+235,Wesfarmers Ltd,Food & Staples Retailing,Australia
+236,JPMorgan Chase & Co,Banks,United States of America
+237,Thermo Fisher Scientific Inc,Life Sciences Tools & Services,United States of America
+238,Tesco PLC,Food & Staples Retailing,United Kingdom
+239,Credit Suisse Group AG,Capital Markets,Switzerland
+240,Faurecia SA,Auto Components,France
+241,Teva Pharmaceutical Industries Ltd,Pharmaceuticals,Israel
+242,Compagnie Generale des Etablissements Michelin SCA,Auto Components,France
+243,Deutsche Bank AG,Capital Markets,Germany
+244,Fubon Financial Holding Co Ltd,Diversified Financial Services,Taiwan
+245,Koninklijke Ahold Delhaize NV,Food & Staples Retailing,Netherlands
+246,Tata Motors Ltd,Automobiles,India
+247,Sun Life Financial Inc,Insurance,Canada
+248,Barclays PLC,Banks,United Kingdom
+249,Procter & Gamble Co,Household Products,United States of America
+250,Hartford Financial Services Group Inc,Insurance,United States of America
+251,Kohls Corp,Multiline Retail,United States of America
+252,Power Corporation of Canada,Insurance,Canada
+253,General Motors Co,Automobiles,United States of America
+254,Valero Energy Corp,"Oil, Gas & Consumable Fuels",United States of America
+255,ACS Actividades de Construccion y Servicios SA,Construction & Engineering,Spain
+256,Volvo AB,Machinery,Sweden
+257,Northrop Grumman Corp,Aerospace & Defense,United States of America
+258,Unilever NV,Personal Products,Netherlands
+259,Great-West Lifeco Inc,Insurance,Canada
+260,Wells Fargo & Co,Banks,United States of America
+261,OMV AG,"Oil, Gas & Consumable Fuels",Austria
+262,Marubeni Corp,Trading Companies & Distributors,Japan
+263,International Consolidated Airlines Group SA,Airlines,United Kingdom
+264,Ping An Insurance Group Co of China Ltd,Insurance,China
+265,Bank of America Corp,Banks,United States of America
+266,Twenty-First Century Fox Inc,Media,United States of America
+267,Allstate Corp,Insurance,United States of America
+268,Seven & i Holdings Co Ltd,Food & Staples Retailing,Japan
+269,Honeywell International Inc,Industrial Conglomerates,United States of America
+270,Hyundai Heavy Industries Co Ltd,Machinery,Korea; Republic (S. Korea)
+271,Reliance Industries Ltd,"Oil, Gas & Consumable Fuels",India
+272,Suncor Energy Inc,"Oil, Gas & Consumable Fuels",Canada
+273,China Mobile Ltd,Wireless Telecommunication Services,Hong Kong
+274,Eni SpA,"Oil, Gas & Consumable Fuels",Italy
+275,Staples Inc,Specialty Retail,United States of America
+276,TJX Companies Inc,Specialty Retail,United States of America
+277,Banco do Brasil SA,Banks,Brazil
+278,Compass Group PLC,"Hotels, Restaurants & Leisure",United Kingdom
+279,Marathon Petroleum Corp,"Oil, Gas & Consumable Fuels",United States of America
+280,Innogy SE,Multi-Utilities,Germany
+281,Japan Tobacco Inc,Tobacco,Japan
+282,Kroger Co,Food & Staples Retailing,United States of America
+283,Oil and Natural Gas Corporation Ltd,"Oil, Gas & Consumable Fuels",India
+284,American Airlines Group Inc,Airlines,United States of America
+285,Imperial Brands PLC,Tobacco,United Kingdom
+286,Hon Hai Precision Industry Co Ltd,"Electronic Equipment, Instruments & Components",Taiwan
+287,AbbVie Inc,Biotechnology,United States of America
+288,Old Mutual PLC,Insurance,United Kingdom
+289,Aegon NV,Insurance,Netherlands
+290,JXTG Holdings Inc,"Oil, Gas & Consumable Fuels",Japan
+291,Kansai Electric Power Co Inc,Electric Utilities,Japan
+292,Fujifilm Holdings Corp,"Technology Hardware, Storage & Peripherals",Japan
+293,Coca-Cola Co,Beverages,United States of America
+294,Southern Co,Electric Utilities,United States of America
+295,Enbw Energie Baden Wuerttemberg AG,Electric Utilities,Germany
+296,China Railway Group Ltd,Construction & Engineering,China
+297,Deere & Co,Machinery,United States of America
+298,Uniper SE,Independent Power and Renewable Electricity Producers,Germany
+299,Shanghai Pudong Development Bank Co Ltd,Banks,China
+300,BAE Systems PLC,Aerospace & Defense,United Kingdom
+301,Baoshan Iron & Steel Co Ltd,Metals & Mining,China
+302,JFE Holdings Inc,Metals & Mining,Japan
+303,Samsung C&T Corp,Industrial Conglomerates,Korea; Republic (S. Korea)
+304,Lafargeholcim Ltd,Construction Materials,Switzerland
+305,Ceconomy AG,Specialty Retail,Germany
+306,Banco Bradesco SA,Banks,Brazil
+307,Chubb Ltd,Insurance,Switzerland
+308,Walt Disney Co,Media,United States of America
+309,Facebook Inc,Internet Software & Services,United States of America
+310,McKesson Corp,Health Care Providers & Services,United States of America
+311,China State Construction Engineering Corp Ltd,Construction & Engineering,China
+312,Tyson Foods Inc,Food Products,United States of America
+313,America Movil SAB de CV,Wireless Telecommunication Services,Mexico
+314,Wilmar International Ltd,Food Products,Singapore
+315,Air France KLM SA,Airlines,France
+316,Verizon Communications Inc,Diversified Telecommunication Services,United States of America
+317,Itau Unibanco Holding SA,Banks,Brazil
+318,Mapfre SA,Insurance,Spain
+319,Manulife Financial Corp,Insurance,Canada
+320,Petroleo Brasileiro SA Petrobras,"Oil, Gas & Consumable Fuels",Brazil
+321,CNOOC Ltd,"Oil, Gas & Consumable Fuels",China
+322,China Railway Construction Corp Ltd,Construction & Engineering,China
+323,Macy's Inc,Multiline Retail,United States of America
+324,U.S. Bancorp,Banks,United States of America
+325,NK Lukoil PAO,"Oil, Gas & Consumable Fuels",Russia
+326,Dai-ichi Life Holdings Inc,Insurance,Japan
+327,Centrais Eletricas Brasileiras SA,Electric Utilities,Brazil
+328,Flex Ltd,"Electronic Equipment, Instruments & Components",Singapore
+329,Mazda Motor Corp,Automobiles,Japan
+330,Mitsubishi Heavy Industries Ltd,Machinery,Japan
+331,Suzuki Motor Corp,Automobiles,Japan
+332,Idemitsu Kosan Co Ltd,"Oil, Gas & Consumable Fuels",Japan
+333,Ferguson Plc,Trading Companies & Distributors,Switzerland
+334,Chubu Electric Power Co Inc,Electric Utilities,Japan
+335,Travelers Companies Inc,Insurance,United States of America
+336,Heineken Holding NV,Beverages,Netherlands
+337,Walgreens Boots Alliance Inc,Food & Staples Retailing,United States of America
+338,Kia Motors Corp,Automobiles,Korea; Republic (S. Korea)
+339,Hindustan Petroleum Corp Ltd,"Oil, Gas & Consumable Fuels",India
+340,Hochtief AG,Construction & Engineering,Germany
+341,Costco Wholesale Corp,Food & Staples Retailing,United States of America
+342,MS&AD Insurance Group Holdings Inc,Insurance,Japan
+343,Gazprom Neft' PAO,"Oil, Gas & Consumable Fuels",Russia
+344,Fujitsu Ltd,IT Services,Japan
+345,Woolworths Ltd,Food & Staples Retailing,Australia
+346,WM Morrison Supermarkets PLC,Food & Staples Retailing,United Kingdom
+347,E I du Pont de Nemours and Co,Chemicals,United States of America
+348,Indian Oil Corpn Ltd,"Oil, Gas & Consumable Fuels",India
+349,China Overseas Land & Investment Ltd,Real Estate Management & Development,Hong Kong
+350,ArcelorMittal SA,Metals & Mining,Luxembourg
+351,Magna International Inc,Auto Components,Canada
+352,Koc Holding AS,Industrial Conglomerates,Turkey
+353,CITIC Ltd,Industrial Conglomerates,Hong Kong
+354,Time Warner Inc,Media,United States of America
+355,Fresenius SE & Co KGaA,Health Care Providers & Services,Germany
+356,Alphabet Inc,Internet Software & Services,United States of America
+357,Jbs SA,Food Products,Brazil
+358,NK Rosneft' PAO,"Oil, Gas & Consumable Fuels",Russia
+359,China Merchants Bank Co Ltd,Banks,China
+360,China Minsheng Banking Corp Ltd,Banks,China
+361,Industrial and Commercial Bank of China Ltd,Banks,China
+362,SAIC Motor Corp Ltd,Automobiles,China
+363,AIA Group Ltd,Insurance,Hong Kong
+364,J Sainsbury PLC,Food & Staples Retailing,United Kingdom
+365,Caterpillar Inc,Machinery,United States of America
+366,Fiat Chrysler Automobiles NV,Automobiles,United Kingdom
+367,American International Group Inc,Insurance,United States of America
+368,LG Display Co Ltd,"Electronic Equipment, Instruments & Components",Korea; Republic (S. Korea)
+369,Nippon Steel & Sumitomo Metal Corp,Metals & Mining,Japan
+370,UniCredit SpA,Banks,Italy
+371,Alfresa Holdings Corp,Health Care Providers & Services,Japan
+372,Hyundai Mobis Co Ltd,Auto Components,Korea; Republic (S. Korea)
+373,Saudi Basic Industries Corporation SJSC,Chemicals,Saudi Arabia
+374,Johnson Controls International PLC,Building Products,Ireland; Republic of
+375,Capital One Financial Corp,Consumer Finance,United States of America
+376,KT Corp,Diversified Telecommunication Services,Korea; Republic (S. Korea)
+377,Rallye SA,Food & Staples Retailing,France
+378,China Resources Pharmaceutical Group Ltd,Pharmaceuticals,Hong Kong
+379,China Citic Bank Corp Ltd,Banks,China
+380,Steinhoff International Holdings NV,Household Durables,Netherlands
+381,Jardine Matheson Holdings Ltd,Industrial Conglomerates,Hong Kong
+382,Casino Guichard Perrachon SA,Food & Staples Retailing,France
+383,Tokyo Electric Power Company Holdings Inc,Electric Utilities,Japan
+384,Phillips 66,"Oil, Gas & Consumable Fuels",United States of America
+385,CJ Corp,Industrial Conglomerates,Korea; Republic (S. Korea)
+386,CK Hutchison Holdings Ltd,Industrial Conglomerates,Hong Kong
+387,Express Scripts Holding Co,Health Care Providers & Services,United States of America
+388,Gilead Sciences Inc,Biotechnology,United States of America
+389,Hanwha Corp,Industrial Conglomerates,Korea; Republic (S. Korea)
+390,Midea Group Co Ltd,Household Durables,China
+391,Progressive Corp,Insurance,United States of America
+392,Mitsui & Co Ltd,Trading Companies & Distributors,Japan
+393,Bank of Communications Co Ltd,Banks,China
+394,China Construction Bank Corp,Banks,China
+395,Industrial Bank Co Ltd,Banks,China
+396,State Bank of India,Banks,India
+397,Aluminum Corp of China Ltd,Metals & Mining,China
+398,Jiangxi Copper Co Ltd,Metals & Mining,China
+399,China Communications Construction Co Ltd,Construction & Engineering,China
+400,China Shenhua Energy Co Ltd,"Oil, Gas & Consumable Fuels",China
+401,PICC Property and Casualty Co Ltd,Insurance,China
+402,AutoNation Inc,Specialty Retail,United States of America
+403,WH Group Ltd,Food Products,Hong Kong
+404,Power Construction Corporation of China Ltd,Construction & Engineering,China
+405,George Weston Ltd,Food & Staples Retailing,Canada
+406,Sysco Corp,Food & Staples Retailing,United States of America
+407,Anheuser Busch Inbev NV,Beverages,Belgium
+408,Power Financial Corp,Insurance,Canada
+409,China Energy Engineering Corp Ltd,Construction & Engineering,China
+410,Shanghai Construction Group Co Ltd,Construction & Engineering,China
+411,Western Digital Corp,"Technology Hardware, Storage & Peripherals",United States of America
+412,PetroChina Co Ltd,"Oil, Gas & Consumable Fuels",China
+413,Noble Group Ltd,Trading Companies & Distributors,Hong Kong
+414,China Grand Automotive Services Co Ltd,Specialty Retail,China
+415,Penske Automotive Group Inc,Specialty Retail,United States of America
+416,China United Network Communications Ltd,Wireless Telecommunication Services,China
+417,Sberbank Rossii PAO,Banks,Russia
+418,Federal National Mortgage Association,Thrifts & Mortgage Finance,United States of America
+419,AmerisourceBergen Corp,Health Care Providers & Services,United States of America
+420,China Petroleum & Chemical Corp,"Oil, Gas & Consumable Fuels",China
+421,China Telecom Corp Ltd,Diversified Telecommunication Services,China
+422,Energy Transfer Equity LP,"Oil, Gas & Consumable Fuels",United States of America
+423,Enterprise Products Partners LP,"Oil, Gas & Consumable Fuels",United States of America
+424,Jardine Strategic Holdings Ltd,Industrial Conglomerates,Hong Kong
+425,Orix Corp,Diversified Financial Services,Japan
+426,Tui AG,"Hotels, Restaurants & Leisure",Germany
+427,Agricultural Bank of China Ltd,Banks,China
+428,Banco de Venezuela SA Banco Universal,Banks,Venezuela
+429,Bank of China Ltd,Banks,China
+430,Mercantil Servicios Financieros CA,Banks,Venezuela
+431,Postal Savings Bank of China Co Ltd,Banks,China
+432,CRRC Corp Ltd,Machinery,China
+433,China Life Insurance Co Ltd,Insurance,China
+434,China Taiping Insurance Holdings Co Ltd,Insurance,Hong Kong
+435,Japan Post Holdings Co Ltd,Insurance,Japan
+436,Japan Post Insurance Co Ltd,Insurance,Japan
+437,New China Life Insurance Co Ltd,Insurance,China
+438,People's Insurance Group of China Co Ltd,Insurance,China
+439,Poste Italiane SpA,Insurance,Italy
+440,Talanx AG,Insurance,Germany
+441,Kraft Heinz Co,Food Products,United States of America
+442,Alimentation Couche Tard Inc,Food & Staples Retailing,Canada
+443,Finatis SA,Food & Staples Retailing,France
+444,Fonciere Euris SA,Food & Staples Retailing,France
+445,Metro AG,Food & Staples Retailing,Germany
+446,Mitsubishi Shokuhin Co Ltd,Food & Staples Retailing,Japan
+447,Publix Super Markets Inc,Food & Staples Retailing,United States of America
+448,Rite Aid Corp,Food & Staples Retailing,United States of America
+449,US Foods Holding Corp,Food & Staples Retailing,United States of America
+450,Mitsubishi Chemical Holdings Corp,Chemicals,Japan
+451,SK Holdings Co Ltd,Industrial Conglomerates,Korea; Republic (S. Korea)
+452,Charter Communications Inc,Media,United States of America
+453,China Unicom Hong Kong Ltd,Diversified Telecommunication Services,Hong Kong
+454,Federal Home Loan Mortgage Corp,Thrifts & Mortgage Finance,United States of America
+455,Lowe's Companies Inc,Specialty Retail,United States of America
+456,Alibaba Group Holding Ltd,Internet Software & Services,China
+457,Altice NV,Media,Netherlands
+458,Amazon.com Inc,Internet & Direct Marketing Retail,United States of America
+459,Andeavor,"Oil, Gas & Consumable Fuels",United States of America
+460,Arrow Electronics Inc,"Electronic Equipment, Instruments & Components",United States of America
+461,Berkshire Hathaway Inc,Diversified Financial Services,United States of America
+462,Celesio AG,Health Care Providers & Services,Germany
+463,Centene Corp,Health Care Providers & Services,United States of America
+464,China Evergrande Group,Real Estate Management & Development,China
+465,China Vanke Co Ltd,Real Estate Management & Development,China
+466,Comcast Corp,Media,United States of America
+467,Community Health Systems Inc,Health Care Providers & Services,United States of America
+468,Cosmo Energy Holdings Co Ltd,"Oil, Gas & Consumable Fuels",Japan
+469,Country Garden Holdings Company Ltd,Real Estate Management & Development,China
+470,Dell Technologies Inc,Software,United States of America
+471,Dollar General Corp,Multiline Retail,United States of America
+472,Dollar Tree Inc,Multiline Retail,United States of America
+473,Exor NV,Diversified Financial Services,Netherlands
+474,General Dynamics Corp,Aerospace & Defense,United States of America
+475,Greenland Holdings Corp Ltd,Real Estate Management & Development,China
+476,HCA Healthcare Inc,Health Care Providers & Services,United States of America
+477,JD.com Inc,Internet & Direct Marketing Retail,China
+478,Lear Corp,Auto Components,United States of America
+479,Legend Holdings Corp,"Technology Hardware, Storage & Peripherals",China
+480,Lotte Shopping Co Ltd,Multiline Retail,Korea; Republic (S. Korea)
+481,Medipal Holdings Corp,Health Care Providers & Services,Japan
+482,Metallurgical Corporation of China Ltd,Construction & Engineering,China
+483,Onex Corp,Diversified Financial Services,Canada
+484,Plains All American Pipeline LP,"Oil, Gas & Consumable Fuels",United States of America
+485,Plains GP Holdings LP,"Oil, Gas & Consumable Fuels",United States of America
+486,Poly Real Estate Group Co Ltd,Real Estate Management & Development,China
+487,Rajesh Exports Ltd,"Textiles, Apparel & Luxury Goods",India
+488,Sears Holdings Corp,Multiline Retail,United States of America
+489,SINOPHARM GROUP CO LTD,Health Care Providers & Services,China
+490,Suning Commerce Group Co Ltd,Specialty Retail,China
+491,Suzuken Co Ltd,Health Care Providers & Services,Japan
+492,T-Mobile US Inc,Wireless Telecommunication Services,United States of America
+493,Tech Data Corp,"Electronic Equipment, Instruments & Components",United States of America
+494,Tencent Holdings Ltd,Internet Software & Services,China
+495,Tenet Healthcare Corp,Health Care Providers & Services,United States of America
+496,Toyota Tsusho Corp,Trading Companies & Distributors,Japan
+497,Ultrapar Participacoes SA,"Oil, Gas & Consumable Fuels",Brazil
+498,World Fuel Services Corp,"Oil, Gas & Consumable Fuels",United States of America
+499,Wuchan Zhongda Group Co Ltd,Distributors,China
+500,Xiamen C&D Inc,Trading Companies & Distributors,China
